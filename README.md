@@ -1,10 +1,10 @@
 # clock
 
-A clock made with JavaScript and CSS, HTML
+A clock made with JavaScript and CSS.
 
-Watch it here https://isa2008.github.io/drum-kit/
+Watch it here https://isa2008.github.io/clock/
 
-By pushing a key down [ASDFGHJKL], a sound will appear and its button on screen lightens up. The user can rewind to starting sound of a key by hitting several times. Displayed in flexbox.
+With the fundamentals of JavaScript – setting hours, minutes, seconds – and CSS – transform and transition – it's pretty fast and easy to built this simple clock. Try it yourself.
 
 ![Alt Text](demo-pic/clock.png)
 
